@@ -1,0 +1,7 @@
+praw
+pandas
+datetime
+vaderSentiment
+re
+requests
+beautifulsoup4
